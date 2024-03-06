@@ -19,10 +19,10 @@ Options:
 
 Example commands
 ```
-# Preprocessing data
+# Preprocessing data (take 2 hours)
 $ python main.py -i
 
-# Preprocessing data and Automatic setup all data
+# Preprocessing data and Automatic setup all data (take 4-6 hours)
 $ python main.py -i -d
 
 # Automatic setup val data (must run -i first)
