@@ -26,5 +26,5 @@ $ python main.py -i
 $ python main.py -i -d
 
 # Automatic setup val data (must run -i first)
-$ python main -d val
+$ python main.py -d val
 ```
